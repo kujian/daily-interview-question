@@ -4,15 +4,19 @@
 
 ## 今日面试题
 
-```2019-04-11```
+```2019-04-12```
 
-> 一个左中右布局，左侧为200px，右侧是300px，中间自适应。中间优先显示。
+> 说说你对JavaScript原型和原型链的理解
    
-欢迎在issue中留下你的答案，[去看看](https://github.com/kujian/daily-interview-question/issues/1)
+欢迎在issue中留下你的答案，[去看看](https://github.com/kujian/daily-interview-question/issues/2)
 
 ## 往期题目
 
-暂无
+```2019-04-11```
+
+> 一个左中右布局，左侧为200px，右侧是300px，中间自适应。中间优先显示。
+
+解析：[第一题](https://github.com/kujian/daily-interview-question/issues/1)
 
 ## 我要提供题目
 
