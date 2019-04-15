@@ -4,11 +4,11 @@
 
 ## 今日面试题
 
-```2019-04-12```
+```2019-04-15```
 
-> 说说你对JavaScript原型和原型链的理解
+> 简述React和Vue的实现原理以及区分点
    
-欢迎在issue中留下你的答案，[去看看](https://github.com/kujian/daily-interview-question/issues/2)
+欢迎在issue中留下你的答案，[去看看](https://github.com/kujian/daily-interview-question/issues/5)
 
 ## 往期题目
 
@@ -17,6 +17,12 @@
 > 一个左中右布局，左侧为200px，右侧是300px，中间自适应。中间优先显示。
 
 解析：[第一题](https://github.com/kujian/daily-interview-question/issues/1)
+
+```2019-04-12```
+
+> 说说你对JavaScript原型和原型链的理解
+
+解析：[第二题](https://github.com/kujian/daily-interview-question/issues/2)
 
 ## 我要提供题目
 
