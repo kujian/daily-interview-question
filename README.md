@@ -4,13 +4,14 @@
 
 ## 今日面试题
 
-```2019-04-15```
+```2019-04-16```
 
-> 简述React和Vue的实现原理以及区分点
+> 说说Vue的Object.defineProperty和3.0的Proxy观察者模式
    
-欢迎在issue中留下你的答案，[去看看](https://github.com/kujian/daily-interview-question/issues/5)
+欢迎在issue中留下你的答案，[去看看](https://github.com/kujian/daily-interview-question/issues/6)
 
 ## 往期题目
+
 
 ```2019-04-11```
 
@@ -23,6 +24,13 @@
 > 说说你对JavaScript原型和原型链的理解
 
 解析：[第二题](https://github.com/kujian/daily-interview-question/issues/2)
+
+
+```2019-04-15```
+
+> 简述React和Vue的实现原理以及区分点
+
+解析：[第三题](https://github.com/kujian/daily-interview-question/issues/5)
 
 ## 我要提供题目
 
